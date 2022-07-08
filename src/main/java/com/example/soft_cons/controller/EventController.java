@@ -9,7 +9,6 @@ import javax.validation.Valid;
 import com.example.soft_cons.exception.ResourceNotFoundException;
 import com.example.soft_cons.model.Event;
 import com.example.soft_cons.repository.EventRepository;
-import com.example.soft_cons.repository.EventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.DeleteMapping;
