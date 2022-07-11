@@ -1,10 +1,10 @@
-package com.example.soft_cons;
+package com.example.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SoftConsApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	void contextLoads() {
